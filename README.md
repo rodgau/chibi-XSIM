@@ -10,13 +10,13 @@ I would be excited to see what anyone develops from this!
 
 # History #
 
-##### Open6DOF High Speed is dead! #####
-##### Long Live Open6DOF High Speed! #####
+##### *Open6DOF High Speed* is dead! #####
+##### Long Live *Open6DOF High Speed* ! #####
 
 
 Spring 2013 saw the announcment of a project called [*Open6DOF High Speed*](https://rodwerks.wordpress.com/projects/open6dof-high-speed/) to spotlight the potential of *Discovery*-based motion simulators. The firmware for that project, though never released, is what is being offered here in its embryonic form as *chibi-XSIM*.
 
-*chibi-XSIM* represents how far *Open6DOF High Speed* got before its plug was pulled; a snapshot of its state of development as of June 2013
+*chibi-XSIM* represents how far *Open6DOF High Speed* got before its plug was pulled; a snapshot of its state of development as of June 2013.
 
 ### So, What Happened...? ###
 Let's see...
@@ -51,7 +51,7 @@ The board connects to the PC via a USB-hosted serial cable to receive streamed p
 # Features #
 The current firmware offers:
 
-- *X-Sim* and *xSimCTRL* software protocol compatible.
+- *X-Sim* and *xSimCTRL* software protocol compatibility.
 - Support for 3 DOF (Stewart transforms for 6 DOF not implemented)
 - On screen Setup menu (through your terminal emulator) 
 - Emergency Stop, Return-to-Center, Machine Calibration Wizard, and adjustable Deadzones
@@ -86,14 +86,14 @@ The current firmware offers:
 [![XSimCTRL Demo](http://img.youtube.com/vi/bQH6uieXrV4/0.jpg)](http://www.youtube.com/watch?v=bQH6uieXrV4)
 
 ### Generic Data Loggers ###
-*chibi-XSIM* also supports most third party data loggers with its ability to output serial data streams describing the performance of your running motion simulator. The free version of *DAQFactory Express*, for example, is ideal for this and has been used with success.
+*chibi-XSIM* also supports most third party data loggers with its ability to stream serial data output describing the performance of your running motion simulator. The free version of *DAQFactory Express*, for example, is ideal for this and has been used with success.
 
 # Disclaimer #
 Please be cautious with the use of this very experimental software. I offer no claims as to the suitability **or the safety** of the firmware provided here in *chibi-XSIM*.
 
 Is it buggy? Quite probably.
 
-Does it work? Yes, but not a single motion simulator has been made with it yet, so...
+Does it work? Yes, but not a single motion simulator has been made with it yet that I'm aware of, so...
 
 Could it hurt you? **Yes!**
 
@@ -101,6 +101,6 @@ Playing with powerful electric motors, home made contraptions and experimental f
 
 # Further Options #
 
-Firmware has also been written for the new and exciting *Electric Imp* platform.
+Motion simulator firmware has also been written for the new and exciting *Electric Imp* platform.
 
-Read about my **zimple-XSIM** motion simulator project [here]( https://github.com/rodgau/zimple-XSIM).
+You can read about the **zimple-XSIM** project [here]( https://github.com/rodgau/zimple-XSIM).
