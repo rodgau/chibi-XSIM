@@ -9,11 +9,10 @@
 I would be excited to see what anyone develops from this!
 
 # History #
-----------
+
 ##### Open6DOF High Speed is dead! #####
 ##### Long Live Open6DOF High Speed! #####
 
-## ##
 
 Spring 2013 saw the announcment of a project called [*Open6DOF High Speed*](https://rodwerks.wordpress.com/projects/open6dof-high-speed/) to spotlight the potential of *Discovery*-based motion simulators. The firmware for that project, though never released, is what is being offered here in its embryonic form as *chibi-XSIM*.
 
