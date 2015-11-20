@@ -1,8 +1,8 @@
-## Welcome to chibi-XSIM ##
+![https://github.com/rodgau/chibi-XSIM](http://i.imgur.com/CbDAgbt.png)
 
 
-*chibi-XSIM* is an [*STM32F4 Discovery*](http://www.st.com/web/catalog/tools/FM116/SC959/SS1532/PF252419?sc=internet/evalboard/product/252419.jsp)  based motor controller for the [*X-Sim*](http://www.x-sim.de) motion simulator software.
 # Overview #
+*chibi-XSIM* is an [*STM32F4 Discovery*](http://www.st.com/web/catalog/tools/FM116/SC959/SS1532/PF252419?sc=internet/evalboard/product/252419.jsp)  based motor controller for the [*X-Sim*](http://www.x-sim.de) motion simulator software.
 
 *X-Sim* is a Windows application designed to power motion simulator hardware for racing and flightsim games. The *chibi-XSIM* project demonstrates the feasibility of *STM32F4 Discovery* powered motion simulators and offers an exciting level of performance through its unique choice to ride upon a real time operating system core–as found in [*ChibiOS/RT*](http://www.chibios.org/dokuwiki/doku.php?id=chibios:product:rt:start).  It's offered here as a demonstration project and possible launch pad for others.
 
